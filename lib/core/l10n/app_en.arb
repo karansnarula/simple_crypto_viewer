@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "searchHint": "Search",
+  "somethingWentWrong": "Something went wrong",
+  "tryAgain": "Try again",
+  "noDescription": "No description",
+  "readMore": "Read more",
+  "priceLabel": "Price:",
+  "marketCapLabel": "Market cap:",
+  "noCoinsFound": "No coins found",
+  "inviteFriends": "Invite friends",
+  "inviteFriendsSubtitle": "Get bonus coins for each friend!"
+}
