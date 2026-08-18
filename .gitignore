@@ -55,3 +55,4 @@ app.*.map.json
 *.gr.dart
 lib/core/l10n/app_localizations.dart
 lib/core/l10n/app_localizations_*.dart
+.env
