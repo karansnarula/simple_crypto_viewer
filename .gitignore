@@ -46,3 +46,12 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# FVM Version Cache
+.fvm/flutter_sdk
+# Generated code
+*.g.dart
+*.freezed.dart
+*.gr.dart
+lib/core/l10n/app_localizations.dart
+lib/core/l10n/app_localizations_*.dart
