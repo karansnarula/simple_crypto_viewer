@@ -19,4 +19,9 @@ abstract class CoinListState with _$CoinListState {
     String? nextCursor,
     String? errorMessage,
   }) = _CoinListState;
+
+  const CoinListState._();
+
+  bool get hasPaginationError =>
+      errorMessage != null && !isLoadingMore && coins.isNotEmpty;
 }
